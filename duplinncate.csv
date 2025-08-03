@@ -1,0 +1,385 @@
+Month,Year,Paint Type,Area Type,Quantity Sold (Litres),Weather,Season
+January,2021,Primer,Urban,570,Cold,Normal
+January,2021,Primer,Rural,495,Cold,Normal
+January,2021,Interior Emulsion,Urban,978,Cold,Normal
+January,2021,Interior Emulsion,Rural,746,Cold,Normal
+January,2021,Exterior Emulsion,Urban,820,Cold,Normal
+January,2021,Exterior Emulsion,Rural,644,Cold,Normal
+January,2021,Distemper,Urban,754,Cold,Normal
+January,2021,Distemper,Rural,612,Cold,Normal
+February,2021,Primer,Urban,707,Cold,Normal
+February,2021,Primer,Rural,430,Cold,Normal
+February,2021,Interior Emulsion,Urban,923,Cold,Normal
+February,2021,Interior Emulsion,Rural,755,Cold,Normal
+February,2021,Exterior Emulsion,Urban,768,Cold,Normal
+February,2021,Exterior Emulsion,Rural,719,Cold,Normal
+February,2021,Distemper,Urban,704,Cold,Normal
+February,2021,Distemper,Rural,557,Cold,Normal
+March,2021,Primer,Urban,531,Sunny,Normal
+March,2021,Primer,Rural,499,Sunny,Normal
+March,2021,Interior Emulsion,Urban,969,Sunny,Normal
+March,2021,Interior Emulsion,Rural,737,Sunny,Normal
+March,2021,Exterior Emulsion,Urban,874,Sunny,Normal
+March,2021,Exterior Emulsion,Rural,577,Sunny,Normal
+March,2021,Distemper,Urban,751,Sunny,Normal
+March,2021,Distemper,Rural,555,Sunny,Normal
+April,2021,Primer,Urban,566,Sunny,Normal
+April,2021,Primer,Rural,563,Sunny,Normal
+April,2021,Interior Emulsion,Urban,1063,Sunny,Normal
+April,2021,Interior Emulsion,Rural,824,Sunny,Normal
+April,2021,Exterior Emulsion,Urban,784,Sunny,Normal
+April,2021,Exterior Emulsion,Rural,612,Sunny,Normal
+April,2021,Distemper,Urban,721,Sunny,Normal
+April,2021,Distemper,Rural,598,Sunny,Normal
+May,2021,Primer,Urban,596,Hot,Normal
+May,2021,Primer,Rural,442,Hot,Normal
+May,2021,Interior Emulsion,Urban,904,Hot,Normal
+May,2021,Interior Emulsion,Rural,667,Hot,Normal
+May,2021,Exterior Emulsion,Urban,814,Hot,Normal
+May,2021,Exterior Emulsion,Rural,604,Hot,Normal
+May,2021,Distemper,Urban,716,Hot,Normal
+May,2021,Distemper,Rural,549,Hot,Normal
+June,2021,Primer,Urban,551,Hot,Normal
+June,2021,Primer,Rural,425,Hot,Normal
+June,2021,Interior Emulsion,Urban,1008,Hot,Normal
+June,2021,Interior Emulsion,Rural,807,Hot,Normal
+June,2021,Exterior Emulsion,Urban,839,Hot,Normal
+June,2021,Exterior Emulsion,Rural,586,Hot,Normal
+June,2021,Distemper,Urban,728,Hot,Normal
+June,2021,Distemper,Rural,584,Hot,Normal
+July,2021,Primer,Urban,537,Rainy,Normal
+July,2021,Primer,Rural,424,Rainy,Normal
+July,2021,Interior Emulsion,Urban,832,Rainy,Normal
+July,2021,Interior Emulsion,Rural,562,Rainy,Normal
+July,2021,Exterior Emulsion,Urban,643,Rainy,Normal
+July,2021,Exterior Emulsion,Rural,467,Rainy,Normal
+July,2021,Distemper,Urban,586,Rainy,Normal
+July,2021,Distemper,Rural,418,Rainy,Normal
+August,2021,Primer,Urban,498,Rainy,Normal
+August,2021,Primer,Rural,374,Rainy,Normal
+August,2021,Interior Emulsion,Urban,727,Rainy,Normal
+August,2021,Interior Emulsion,Rural,581,Rainy,Normal
+August,2021,Exterior Emulsion,Urban,751,Rainy,Normal
+August,2021,Exterior Emulsion,Rural,456,Rainy,Normal
+August,2021,Distemper,Urban,638,Rainy,Normal
+August,2021,Distemper,Rural,482,Rainy,Normal
+September,2021,Primer,Urban,567,Humid,Normal
+September,2021,Primer,Rural,402,Humid,Normal
+September,2021,Interior Emulsion,Urban,1008,Humid,Normal
+September,2021,Interior Emulsion,Rural,611,Humid,Normal
+September,2021,Exterior Emulsion,Urban,881,Humid,Normal
+September,2021,Exterior Emulsion,Rural,771,Humid,Normal
+September,2021,Distemper,Urban,652,Humid,Normal
+September,2021,Distemper,Rural,418,Humid,Normal
+October,2021,Primer,Urban,741,Sunny,Festive
+October,2021,Primer,Rural,612,Sunny,Festive
+October,2021,Interior Emulsion,Urban,1159,Sunny,Festive
+October,2021,Interior Emulsion,Rural,912,Sunny,Festive
+October,2021,Exterior Emulsion,Urban,980,Sunny,Festive
+October,2021,Exterior Emulsion,Rural,822,Sunny,Festive
+October,2021,Distemper,Urban,801,Sunny,Festive
+October,2021,Distemper,Rural,764,Sunny,Festive
+November,2021,Primer,Urban,780,Cold,Festive
+November,2021,Primer,Rural,698,Cold,Festive
+November,2021,Interior Emulsion,Urban,1236,Cold,Festive
+November,2021,Interior Emulsion,Rural,999,Cold,Festive
+November,2021,Exterior Emulsion,Urban,1007,Cold,Festive
+November,2021,Exterior Emulsion,Rural,838,Cold,Festive
+November,2021,Distemper,Urban,844,Cold,Festive
+November,2021,Distemper,Rural,714,Cold,Festive
+December,2021,Primer,Urban,701,Cold,Wedding
+December,2021,Primer,Rural,541,Cold,Wedding
+December,2021,Interior Emulsion,Urban,1059,Cold,Wedding
+December,2021,Interior Emulsion,Rural,960,Cold,Wedding
+December,2021,Exterior Emulsion,Urban,1012,Cold,Wedding
+December,2021,Exterior Emulsion,Rural,794,Cold,Wedding
+December,2021,Distemper,Urban,857,Cold,Wedding
+December,2021,Distemper,Rural,637,Cold,Wedding
+January,2022,Primer,Urban,627,Cold,Normal
+January,2022,Primer,Rural,441,Cold,Normal
+January,2022,Interior Emulsion,Urban,983,Cold,Normal
+January,2022,Interior Emulsion,Rural,766,Cold,Normal
+January,2022,Exterior Emulsion,Urban,893,Cold,Normal
+January,2022,Exterior Emulsion,Rural,644,Cold,Normal
+January,2022,Distemper,Urban,716,Cold,Normal
+January,2022,Distemper,Rural,457,Cold,Normal
+February,2022,Primer,Urban,641,Cold,Normal
+February,2022,Primer,Rural,434,Cold,Normal
+February,2022,Interior Emulsion,Urban,1003,Cold,Normal
+February,2022,Interior Emulsion,Rural,661,Cold,Normal
+February,2022,Exterior Emulsion,Urban,814,Cold,Normal
+February,2022,Exterior Emulsion,Rural,766,Cold,Normal
+February,2022,Distemper,Urban,693,Cold,Normal
+February,2022,Distemper,Rural,579,Cold,Normal
+March,2022,Primer,Urban,551,Sunny,Normal
+March,2022,Primer,Rural,526,Sunny,Normal
+March,2022,Interior Emulsion,Urban,949,Sunny,Normal
+March,2022,Interior Emulsion,Rural,708,Sunny,Normal
+March,2022,Exterior Emulsion,Urban,749,Sunny,Normal
+March,2022,Exterior Emulsion,Rural,644,Sunny,Normal
+March,2022,Distemper,Urban,627,Sunny,Normal
+March,2022,Distemper,Rural,559,Sunny,Normal
+April,2022,Primer,Urban,555,Sunny,Normal
+April,2022,Primer,Rural,480,Sunny,Normal
+April,2022,Interior Emulsion,Urban,1024,Sunny,Normal
+April,2022,Interior Emulsion,Rural,787,Sunny,Normal
+April,2022,Exterior Emulsion,Urban,841,Sunny,Normal
+April,2022,Exterior Emulsion,Rural,619,Sunny,Normal
+April,2022,Distemper,Urban,725,Sunny,Normal
+April,2022,Distemper,Rural,582,Sunny,Normal
+May,2022,Primer,Urban,691,Hot,Normal
+May,2022,Primer,Rural,512,Hot,Normal
+May,2022,Interior Emulsion,Urban,908,Hot,Normal
+May,2022,Interior Emulsion,Rural,742,Hot,Normal
+May,2022,Exterior Emulsion,Urban,846,Hot,Normal
+May,2022,Exterior Emulsion,Rural,557,Hot,Normal
+May,2022,Distemper,Urban,719,Hot,Normal
+May,2022,Distemper,Rural,513,Hot,Normal
+June,2022,Primer,Urban,575,Hot,Normal
+June,2022,Primer,Rural,424,Hot,Normal
+June,2022,Interior Emulsion,Urban,960,Hot,Normal
+June,2022,Interior Emulsion,Rural,657,Hot,Normal
+June,2022,Exterior Emulsion,Urban,807,Hot,Normal
+June,2022,Exterior Emulsion,Rural,583,Hot,Normal
+June,2022,Distemper,Urban,713,Hot,Normal
+June,2022,Distemper,Rural,601,Hot,Normal
+July,2022,Primer,Urban,465,Rainy,Normal
+July,2022,Primer,Rural,269,Rainy,Normal
+July,2022,Interior Emulsion,Urban,812,Rainy,Normal
+July,2022,Interior Emulsion,Rural,597,Rainy,Normal
+July,2022,Exterior Emulsion,Urban,685,Rainy,Normal
+July,2022,Exterior Emulsion,Rural,424,Rainy,Normal
+July,2022,Distemper,Urban,651,Rainy,Normal
+July,2022,Distemper,Rural,382,Rainy,Normal
+August,2022,Primer,Urban,473,Rainy,Normal
+August,2022,Primer,Rural,335,Rainy,Normal
+August,2022,Interior Emulsion,Urban,779,Rainy,Normal
+August,2022,Interior Emulsion,Rural,653,Rainy,Normal
+August,2022,Exterior Emulsion,Urban,689,Rainy,Normal
+August,2022,Exterior Emulsion,Rural,393,Rainy,Normal
+August,2022,Distemper,Urban,589,Rainy,Normal
+August,2022,Distemper,Rural,351,Rainy,Normal
+September,2022,Primer,Urban,641,Humid,Normal
+September,2022,Primer,Rural,453,Humid,Normal
+September,2022,Interior Emulsion,Urban,918,Humid,Normal
+September,2022,Interior Emulsion,Rural,721,Humid,Normal
+September,2022,Exterior Emulsion,Urban,876,Humid,Normal
+September,2022,Exterior Emulsion,Rural,632,Humid,Normal
+September,2022,Distemper,Urban,713,Humid,Normal
+September,2022,Distemper,Rural,534,Humid,Normal
+October,2022,Primer,Urban,775,Sunny,Festive
+October,2022,Primer,Rural,604,Sunny,Festive
+October,2022,Interior Emulsion,Urban,1142,Sunny,Festive
+October,2022,Interior Emulsion,Rural,982,Sunny,Festive
+October,2022,Exterior Emulsion,Urban,1066,Sunny,Festive
+October,2022,Exterior Emulsion,Rural,814,Sunny,Festive
+October,2022,Distemper,Urban,864,Sunny,Festive
+October,2022,Distemper,Rural,723,Sunny,Festive
+November,2022,Primer,Urban,786,Cold,Festive
+November,2022,Primer,Rural,544,Cold,Festive
+November,2022,Interior Emulsion,Urban,1223,Cold,Festive
+November,2022,Interior Emulsion,Rural,981,Cold,Festive
+November,2022,Exterior Emulsion,Urban,1084,Cold,Festive
+November,2022,Exterior Emulsion,Rural,806,Cold,Festive
+November,2022,Distemper,Urban,814,Cold,Festive
+November,2022,Distemper,Rural,841,Cold,Festive
+December,2022,Primer,Urban,707,Cold,Wedding
+December,2022,Primer,Rural,573,Cold,Wedding
+December,2022,Interior Emulsion,Urban,1062,Cold,Wedding
+December,2022,Interior Emulsion,Rural,912,Cold,Wedding
+December,2022,Exterior Emulsion,Urban,1022,Cold,Wedding
+December,2022,Exterior Emulsion,Rural,653,Cold,Wedding
+December,2022,Distemper,Urban,841,Cold,Wedding
+December,2022,Distemper,Rural,631,Cold,Wedding
+January,2023,Primer,Urban,638,Cold,Normal
+January,2023,Primer,Rural,428,Cold,Normal
+January,2023,Interior Emulsion,Urban,905,Cold,Normal
+January,2023,Interior Emulsion,Rural,757,Cold,Normal
+January,2023,Exterior Emulsion,Urban,909,Cold,Normal
+January,2023,Exterior Emulsion,Rural,598,Cold,Normal
+January,2023,Distemper,Urban,709,Cold,Normal
+January,2023,Distemper,Rural,595,Cold,Normal
+February,2023,Primer,Urban,652,Cold,Normal
+February,2023,Primer,Rural,434,Cold,Normal
+February,2023,Interior Emulsion,Urban,1055,Cold,Normal
+February,2023,Interior Emulsion,Rural,713,Cold,Normal
+February,2023,Exterior Emulsion,Urban,879,Cold,Normal
+February,2023,Exterior Emulsion,Rural,693,Cold,Normal
+February,2023,Distemper,Urban,668,Cold,Normal
+February,2023,Distemper,Rural,517,Cold,Normal
+March,2023,Primer,Urban,557,Sunny,Normal
+March,2023,Primer,Rural,450,Sunny,Normal
+March,2023,Interior Emulsion,Urban,935,Sunny,Normal
+March,2023,Interior Emulsion,Rural,624,Sunny,Normal
+March,2023,Exterior Emulsion,Urban,778,Sunny,Normal
+March,2023,Exterior Emulsion,Rural,720,Sunny,Normal
+March,2023,Distemper,Urban,753,Sunny,Normal
+March,2023,Distemper,Rural,480,Sunny,Normal
+April,2023,Primer,Urban,665,Sunny,Normal
+April,2023,Primer,Rural,457,Sunny,Normal
+April,2023,Interior Emulsion,Urban,926,Sunny,Normal
+April,2023,Interior Emulsion,Rural,745,Sunny,Normal
+April,2023,Exterior Emulsion,Urban,890,Sunny,Normal
+April,2023,Exterior Emulsion,Rural,600,Sunny,Normal
+April,2023,Distemper,Urban,639,Sunny,Normal
+April,2023,Distemper,Rural,613,Sunny,Normal
+May,2023,Primer,Urban,634,Hot,Normal
+May,2023,Primer,Rural,514,Hot,Normal
+May,2023,Interior Emulsion,Urban,947,Hot,Normal
+May,2023,Interior Emulsion,Rural,865,Hot,Normal
+May,2023,Exterior Emulsion,Urban,843,Hot,Normal
+May,2023,Exterior Emulsion,Rural,626,Hot,Normal
+May,2023,Distemper,Urban,748,Hot,Normal
+May,2023,Distemper,Rural,513,Hot,Normal
+June,2023,Primer,Urban,549,Hot,Normal
+June,2023,Primer,Rural,525,Hot,Normal
+June,2023,Interior Emulsion,Urban,895,Hot,Normal
+June,2023,Interior Emulsion,Rural,833,Hot,Normal
+June,2023,Exterior Emulsion,Urban,898,Hot,Normal
+June,2023,Exterior Emulsion,Rural,624,Hot,Normal
+June,2023,Distemper,Urban,743,Hot,Normal
+June,2023,Distemper,Rural,522,Hot,Normal
+July,2023,Primer,Urban,521,Rainy,Normal
+July,2023,Primer,Rural,285,Rainy,Normal
+July,2023,Interior Emulsion,Urban,739,Rainy,Normal
+July,2023,Interior Emulsion,Rural,619,Rainy,Normal
+July,2023,Exterior Emulsion,Urban,787,Rainy,Normal
+July,2023,Exterior Emulsion,Rural,516,Rainy,Normal
+July,2023,Distemper,Urban,566,Rainy,Normal
+July,2023,Distemper,Rural,501,Rainy,Normal
+August,2023,Primer,Urban,497,Rainy,Normal
+August,2023,Primer,Rural,342,Rainy,Normal
+August,2023,Interior Emulsion,Urban,857,Rainy,Normal
+August,2023,Interior Emulsion,Rural,501,Rainy,Normal
+August,2023,Exterior Emulsion,Urban,734,Rainy,Normal
+August,2023,Exterior Emulsion,Rural,442,Rainy,Normal
+August,2023,Distemper,Urban,579,Rainy,Normal
+August,2023,Distemper,Rural,338,Rainy,Normal
+September,2023,Primer,Urban,578,Humid,Normal
+September,2023,Primer,Rural,414,Humid,Normal
+September,2023,Interior Emulsion,Urban,963,Humid,Normal
+September,2023,Interior Emulsion,Rural,738,Humid,Normal
+September,2023,Exterior Emulsion,Urban,803,Humid,Normal
+September,2023,Exterior Emulsion,Rural,687,Humid,Normal
+September,2023,Distemper,Urban,680,Humid,Normal
+September,2023,Distemper,Rural,588,Humid,Normal
+October,2023,Primer,Urban,675,Sunny,Festive
+October,2023,Primer,Rural,594,Sunny,Festive
+October,2023,Interior Emulsion,Urban,1209,Sunny,Festive
+October,2023,Interior Emulsion,Rural,978,Sunny,Festive
+October,2023,Exterior Emulsion,Urban,1088,Sunny,Festive
+October,2023,Exterior Emulsion,Rural,832,Sunny,Festive
+October,2023,Distemper,Urban,855,Sunny,Festive
+October,2023,Distemper,Rural,672,Sunny,Festive
+November,2023,Primer,Urban,716,Cold,Festive
+November,2023,Primer,Rural,520,Cold,Festive
+November,2023,Interior Emulsion,Urban,1142,Cold,Festive
+November,2023,Interior Emulsion,Rural,982,Cold,Festive
+November,2023,Exterior Emulsion,Urban,1068,Cold,Festive
+November,2023,Exterior Emulsion,Rural,922,Cold,Festive
+November,2023,Distemper,Urban,920,Cold,Festive
+November,2023,Distemper,Rural,688,Cold,Festive
+December,2023,Primer,Urban,626,Cold,Wedding
+December,2023,Primer,Rural,525,Cold,Wedding
+December,2023,Interior Emulsion,Urban,1104,Cold,Wedding
+December,2023,Interior Emulsion,Rural,850,Cold,Wedding
+December,2023,Exterior Emulsion,Urban,1069,Cold,Wedding
+December,2023,Exterior Emulsion,Rural,893,Cold,Wedding
+December,2023,Distemper,Urban,835,Cold,Wedding
+December,2023,Distemper,Rural,622,Cold,Wedding
+January,2024,Primer,Urban,592,Cold,Normal
+January,2024,Primer,Rural,439,Cold,Normal
+January,2024,Interior Emulsion,Urban,1025,Cold,Normal
+January,2024,Interior Emulsion,Rural,695,Cold,Normal
+January,2024,Exterior Emulsion,Urban,871,Cold,Normal
+January,2024,Exterior Emulsion,Rural,693,Cold,Normal
+January,2024,Distemper,Urban,722,Cold,Normal
+January,2024,Distemper,Rural,557,Cold,Normal
+February,2024,Primer,Urban,587,Cold,Normal
+February,2024,Primer,Rural,399,Cold,Normal
+February,2024,Interior Emulsion,Urban,934,Cold,Normal
+February,2024,Interior Emulsion,Rural,779,Cold,Normal
+February,2024,Exterior Emulsion,Urban,801,Cold,Normal
+February,2024,Exterior Emulsion,Rural,674,Cold,Normal
+February,2024,Distemper,Urban,673,Cold,Normal
+February,2024,Distemper,Rural,521,Cold,Normal
+March,2024,Primer,Urban,623,Sunny,Normal
+March,2024,Primer,Rural,485,Sunny,Normal
+March,2024,Interior Emulsion,Urban,915,Sunny,Normal
+March,2024,Interior Emulsion,Rural,721,Sunny,Normal
+March,2024,Exterior Emulsion,Urban,840,Sunny,Normal
+March,2024,Exterior Emulsion,Rural,739,Sunny,Normal
+March,2024,Distemper,Urban,774,Sunny,Normal
+March,2024,Distemper,Rural,491,Sunny,Normal
+April,2024,Primer,Urban,607,Sunny,Normal
+April,2024,Primer,Rural,347,Sunny,Normal
+April,2024,Interior Emulsion,Urban,948,Sunny,Normal
+April,2024,Interior Emulsion,Rural,738,Sunny,Normal
+April,2024,Exterior Emulsion,Urban,859,Sunny,Normal
+April,2024,Exterior Emulsion,Rural,570,Sunny,Normal
+April,2024,Distemper,Urban,750,Sunny,Normal
+April,2024,Distemper,Rural,551,Sunny,Normal
+May,2024,Primer,Urban,574,Hot,Normal
+May,2024,Primer,Rural,441,Hot,Normal
+May,2024,Interior Emulsion,Urban,936,Hot,Normal
+May,2024,Interior Emulsion,Rural,672,Hot,Normal
+May,2024,Exterior Emulsion,Urban,825,Hot,Normal
+May,2024,Exterior Emulsion,Rural,598,Hot,Normal
+May,2024,Distemper,Urban,731,Hot,Normal
+May,2024,Distemper,Rural,505,Hot,Normal
+June,2024,Primer,Urban,667,Hot,Normal
+June,2024,Primer,Rural,394,Hot,Normal
+June,2024,Interior Emulsion,Urban,935,Hot,Normal
+June,2024,Interior Emulsion,Rural,717,Hot,Normal
+June,2024,Exterior Emulsion,Urban,845,Hot,Normal
+June,2024,Exterior Emulsion,Rural,612,Hot,Normal
+June,2024,Distemper,Urban,704,Hot,Normal
+June,2024,Distemper,Rural,550,Hot,Normal
+July,2024,Primer,Urban,493,Rainy,Normal
+July,2024,Primer,Rural,358,Rainy,Normal
+July,2024,Interior Emulsion,Urban,767,Rainy,Normal
+July,2024,Interior Emulsion,Rural,534,Rainy,Normal
+July,2024,Exterior Emulsion,Urban,620,Rainy,Normal
+July,2024,Exterior Emulsion,Rural,510,Rainy,Normal
+July,2024,Distemper,Urban,566,Rainy,Normal
+July,2024,Distemper,Rural,432,Rainy,Normal
+August,2024,Primer,Urban,490,Rainy,Normal
+August,2024,Primer,Rural,385,Rainy,Normal
+August,2024,Interior Emulsion,Urban,729,Rainy,Normal
+August,2024,Interior Emulsion,Rural,569,Rainy,Normal
+August,2024,Exterior Emulsion,Urban,707,Rainy,Normal
+August,2024,Exterior Emulsion,Rural,477,Rainy,Normal
+August,2024,Distemper,Urban,596,Rainy,Normal
+August,2024,Distemper,Rural,386,Rainy,Normal
+September,2024,Primer,Urban,635,Humid,Normal
+September,2024,Primer,Rural,385,Humid,Normal
+September,2024,Interior Emulsion,Urban,997,Humid,Normal
+September,2024,Interior Emulsion,Rural,727,Humid,Normal
+September,2024,Exterior Emulsion,Urban,842,Humid,Normal
+September,2024,Exterior Emulsion,Rural,599,Humid,Normal
+September,2024,Distemper,Urban,751,Humid,Normal
+September,2024,Distemper,Rural,591,Humid,Normal
+October,2024,Primer,Urban,807,Sunny,Festive
+October,2024,Primer,Rural,652,Sunny,Festive
+October,2024,Interior Emulsion,Urban,1212,Sunny,Festive
+October,2024,Interior Emulsion,Rural,998,Sunny,Festive
+October,2024,Exterior Emulsion,Urban,1085,Sunny,Festive
+October,2024,Exterior Emulsion,Rural,869,Sunny,Festive
+October,2024,Distemper,Urban,946,Sunny,Festive
+October,2024,Distemper,Rural,786,Sunny,Festive
+November,2024,Primer,Urban,727,Cold,Festive
+November,2024,Primer,Rural,609,Cold,Festive
+November,2024,Interior Emulsion,Urban,1136,Cold,Festive
+November,2024,Interior Emulsion,Rural,984,Cold,Festive
+November,2024,Exterior Emulsion,Urban,1061,Cold,Festive
+November,2024,Exterior Emulsion,Rural,787,Cold,Festive
+November,2024,Distemper,Urban,941,Cold,Festive
+November,2024,Distemper,Rural,705,Cold,Festive
+December,2024,Primer,Urban,702,Cold,Wedding
+December,2024,Primer,Rural,533,Cold,Wedding
+December,2024,Interior Emulsion,Urban,1077,Cold,Wedding
+December,2024,Interior Emulsion,Rural,902,Cold,Wedding
+December,2024,Exterior Emulsion,Urban,1008,Cold,Wedding
+December,2024,Exterior Emulsion,Rural,721,Cold,Wedding
+December,2024,Distemper,Urban,894,Cold,Wedding
+December,2024,Distemper,Rural,661,Cold,Wedding
